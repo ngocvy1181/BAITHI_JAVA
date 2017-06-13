@@ -43,3 +43,5 @@ Chúng ta có thể chọn bài nhạc từ trang 2. Nếu không muốn chọn 
 * Nút **REPEAT** : Lặp lại một bài đang nghe.
 * **Thanh trạng thái** : Hiển thị thời lượng đang chạy của bài nhạc, người dùng có thể kéo nút trên thanh trạng thái để đi điến đoạn nhạc mình thích.
 * **Thời gian** : Nằm ở trên thanh trạng thái, bên trái là thời gian thực của nhạc đang chạy, bên phải là tổng thời gian của bài nhạc.
+
+**Đường dẫn tới trang download nếu file lỗi: https://drive.google.com/open?id=0B3n-UCpSDe3EdlRPblA5R0NsNHc**
